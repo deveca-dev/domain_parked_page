@@ -23,7 +23,6 @@ function App() {
           width: "110%",  // Vergrößere die Breite, um die Vignette zu minimieren
           height: "110%", // Vergrößere die Höhe, um die Vignette zu minimieren
           backgroundImage: `url("https://images.unsplash.com/photo-1715464881665-e539f7f41992?q=80&w=2532&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")`,
-          // backgroundSize: "",
           backgroundPosition: "center",
           backdropFilter: 'blur(1px)',
           backgroundColor: 'rgba(0, 0, 0, 0.4)',
